@@ -1,5 +1,5 @@
 language: java
-jdk: oraclejdks
+jdk: oraclejdk8
 after_success: echo "i'm done"
 
 notifications:
